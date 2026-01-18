@@ -1,5 +1,16 @@
-# 构建产物（本地构建时生成，不提交到 release 仓库）
+# ============================================================================
+# CyberPath Release Repository .gitignore
+# ============================================================================
+#
 # 安装包通过 GitHub Release 上传，不直接提交到仓库
+# Packages are uploaded via GitHub Release, not committed to repo
+#
+# packages/ 目录用于本地构建输出，不提交
+# packages/ directory is for local build output, not committed
+# ============================================================================
+
+# 安装包输出目录 / Package output directory
+packages/
 
 # macOS
 *.dmg
@@ -9,6 +20,7 @@
 # Windows
 *.exe
 *.msi
+*.zip
 
 # Android
 *.apk
@@ -17,13 +29,13 @@
 # iOS
 *.ipa
 
-# 临时文件
+# 临时文件 / Temp files
 *.tmp
 *.log
 .DS_Store
 Thumbs.db
 
-# 构建目录
+# 构建目录 / Build directories
 build/
 dist/
 out/
