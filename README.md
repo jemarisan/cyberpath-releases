@@ -57,13 +57,13 @@ CyberPath 是一款专为交易者和投资者设计的 AI 金融智能平台。
 
 ## 📥 Download | 下载
 
-### Latest Version | 最新版本: v2.0.1
+### Latest Version | 最新版本: v2.0.0
 
 | Platform | 平台 | Requirements | 系统要求 | Download | 下载 |
 |----------|------|--------------|---------|----------|------|
-| 🍎 **macOS** | macOS 12.0+ (Monterey) | [Download DMG](https://github.com/jemarisan/cyberpath-releases/releases/latest) |
-| 🪟 **Windows** | Windows 10+ | [Download EXE](https://github.com/jemarisan/cyberpath-releases/releases/latest) |
-| 🤖 **Android** | Android 8.0+ | [Download APK](https://github.com/jemarisan/cyberpath-releases/releases/latest) |
+| 🍎 **macOS** | macOS 12.0+ (Monterey) | [CyberPath-2.0.0-macos.dmg](https://github.com/jemarisan/cyberpath-releases/releases/download/v2.0.0/CyberPath-2.0.0-macos.dmg) |
+| 🪟 **Windows** | Windows 10+ | [CyberPath-2.0.0-windows.zip](https://github.com/jemarisan/cyberpath-releases/releases/download/v2.0.0/CyberPath-2.0.0-windows.zip) |
+| 🤖 **Android** | Android 8.0+ | [CyberPath-2.0.0.apk](https://github.com/jemarisan/cyberpath-releases/releases/download/v2.0.0/CyberPath-2.0.0.apk) |
 
 > 💡 **Tip**: The app includes automatic update notifications.
 > 
@@ -96,21 +96,19 @@ CyberPath 是一款专为交易者和投资者设计的 AI 金融智能平台。
 
 ## 📋 Changelog | 更新日志
 
-### v2.0.1 (2026-01-18)
+### v2.0.0 (2026-01-19)
 
-#### 🆕 New Features | 新功能
-- Enhanced AI analysis capabilities | 增强 AI 分析能力
-- Improved charting experience | 优化图表体验
-- New payment options | 新增支付方式
-- Automatic update system | 自动更新系统
+🎉 **Initial Public Release | 首个公开版本**
 
-#### ⚡ Improvements | 优化
-- Performance improvements | 性能优化
-- Bug fixes and stability | 修复问题，提升稳定性
+#### ✨ Features | 功能
+- Real-time market data (Crypto & Stocks) | 实时行情（加密货币和股票）
+- Professional K-line charts with MA, Volume, Grid | 专业K线图表
+- AI-powered market analysis | AI 市场分析
+- Multi-source news aggregation | 多源新闻聚合
+- Sentiment tracking and visualization | 情绪追踪与可视化
+- Dark theme optimized for trading | 深色交易主题
 
-### v2.0.0 (2026-01-10)
-
-- 🎉 Initial release | 首个版本发布
+📖 [Full Changelog](CHANGELOG.md) | [完整更新日志](CHANGELOG.md)
 
 ---
 
