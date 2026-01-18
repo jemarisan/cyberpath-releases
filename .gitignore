@@ -1,0 +1,29 @@
+# 构建产物（本地构建时生成，不提交到 release 仓库）
+# 安装包通过 GitHub Release 上传，不直接提交到仓库
+
+# macOS
+*.dmg
+*.pkg
+*.app
+
+# Windows
+*.exe
+*.msi
+
+# Android
+*.apk
+*.aab
+
+# iOS
+*.ipa
+
+# 临时文件
+*.tmp
+*.log
+.DS_Store
+Thumbs.db
+
+# 构建目录
+build/
+dist/
+out/
